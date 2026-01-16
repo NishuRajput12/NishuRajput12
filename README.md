@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm Nishu Rajput</h1>
     <h3 align="center">Full Stack Web Developer<</h3>
-    <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">      
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishurajput12&label=Profile%20views&color=0e75b6&style=flat" alt="nishurajput12" /> </p>
       
 ### 👨‍🎓 About Me
@@ -53,10 +53,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
 </a>
 
-<a href="https://ejs.co/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/ejs/ejs-icon.svg" alt="ejs" width="40" height="40"/>
+<a href="https://ejs.co/" target="_blank">
+  <img src="https://cdn.simpleicons.org/ejs/black" width="40" height="40"/>
 </a>
-
 
 <a href="https://www.mongodb.com/atlas" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
