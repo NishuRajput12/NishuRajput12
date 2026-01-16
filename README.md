@@ -53,9 +53,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
 </a>
 
-<a href="https://ejs.co/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ejs/ejs-original.svg" width="40" height="40"/>
+<a href="https://ejs.co/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/ejs/ejs-icon.svg" alt="ejs" width="40" height="40"/>
 </a>
+
 
 <a href="https://www.mongodb.com/atlas" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
