@@ -9,6 +9,14 @@ style="border-radius:20px;">
 <img src="https://komarev.com/ghpvc/?username=nishurajput12&label=Profile%20Views&color=0e75b6&style=flat" alt="nishurajput12"/>
 </p>
 
+**👨‍💻 About Me**
+
+* 🎓 BCA Graduate (2026)
+* 💻 Passionate about Web Development and building real-world projects
+* 🌱 Currently learning and improving my skills in React.js, Node.js, Express.js & MongoDB
+* 🧠 Practicing Data Structures & Algorithms
+* 🚀 Love creating responsive and user-friendly web applications
+* 🤝 Open to learning, collaboration, and new opportunities
 
 
 👨‍💻 All of my projects are available here:
