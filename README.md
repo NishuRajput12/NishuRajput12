@@ -1,22 +1,28 @@
- <h1 align="center">Hi 👋, I'm Nishu Rajput</h1>
+<h1 align="center">Hi 👋, I'm Nishu Rajput</h1>
+
 <h3 align="center">🚀 Full Stack Web Developer | BCA Graduate 2026</h3>
 
-  <img align="right" alt="Coding" width="400"
+<img align="right" alt="Coding" width="400"
 src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif"
-style="border-radius: 20px;">
+style="border-radius:20px;">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishurajput12&label=Profile%20views&color=0e75b6&style=flat" alt="nishurajput12" /> </p>
-     
-### 👨‍🎓 About Me
--🎓BCA Graduate (2026)
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=nishurajput12&label=Profile%20Views&color=0e75b6&style=flat" alt="nishurajput12"/>
+</p>
 
--💻 Passionate about Web Development and building creative projects
--🌱 Currently learning and improving my skills in React.js, Node.js & Backend Development
--🧠 Currently improving my skills in Backend Development, APIs, System Design & DSA
--🚀 Interested in creating responsive and user-friendly web applications
+---
 
-- 👨‍💻All of my projects are available at
-   [https://github.com/NishuRajput12](https://github.com/NishuRajput12)
+## 👨‍💻 About Me
+
+* 🎓 BCA Graduate (2026) passionate about building modern web applications
+* 💻 Full Stack Developer skilled in **JavaScript, React.js, Node.js & MongoDB**
+* 🌱 Currently improving my skills in **Backend Development, APIs, System Design & DSA**
+* 🚀 Love creating responsive, scalable and user-friendly applications
+* 🧩 Interested in Open Source contributions and solving real-world problems
+
+👨‍💻 All of my projects are available here:
+
+🔗 https://github.com/NishuRajput12
 
 ---
 ## 🌐 Connect With Me
