@@ -2,19 +2,26 @@
 
 <h3 align="center">🚀 Full Stack Web Developer | BCA Graduate 2026</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishurajput12&label=Profile%20Views&color=0e75b6&style=flat" alt="nishurajput12"/> </p> 
-## 👨‍💻 About Me 
-* 🎓 BCA Graduate (2026) passionate about building modern web applications 
-* 💻 Full Stack Developer skilled in **JavaScript, React.js, Node.js & MongoDB** 
-* 🌱 Currently improving my skills in **Backend Development, APIs, System Design & DSA** 
-* 🚀 Love creating responsive, scalable and user-friendly applications 
+<img align="right" alt="Coding" width="400"
+src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif"
+style="border-radius:20px;">
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=nishurajput12&label=Profile%20Views&color=0e75b6&style=flat" alt="nishurajput12"/>
+</p>
+
+## 👨‍💻 About Me
+
+* 🎓 BCA Graduate (2026) passionate about building modern web applications
+* 💻 Full Stack Developer skilled in **JavaScript, React.js, Node.js & MongoDB**
+* 🌱 Currently improving my skills in **Backend Development, APIs, System Design & DSA**
+* 🚀 Love creating responsive, scalable and user-friendly applications
 * 🧩 Interested in Open Source contributions and solving real-world problems
 
 👨‍💻 All of my projects are available here:
 
 🔗 https://github.com/NishuRajput12
 
----
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -28,8 +35,6 @@
 </a>
 
 </p>
-
----
 
 # 🛠 Tech Stack
 
@@ -61,8 +66,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
 </p>
 
----
-   
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishurajput12&" alt="nishurajput12" /></p>
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishurajput12&" alt="nishurajput12" />
+</p>
