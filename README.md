@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nishu Rajput</h1>
 
 <h3 align="center">🚀 Full Stack Web Developer | BCA Graduate 2026</h3>
-<img align="right" alt="Coding" width="400"
-src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif"
-style="border-radius:20px;">
+
 
 <img align="right" alt="Coding" width="400"
 src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif"
