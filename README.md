@@ -14,7 +14,7 @@ style="border-radius:20px;">
 - 🎓 BCA Graduate (2026) passionate about building modern web applications
 - 💻 Web Developer skilled in **JavaScript, React.js, Node.js & MongoDB**
 - 🌱 Currently improving my skills in **Backend Development, APIs & DSA**
-- 🚀 Love creating responsive and user-friendly applications
+- 🚀 Love creating responsive, scalable and user-friendly applications
 - 🧩 Interested in Open Source contributions and solving real-world problems
 
 👨‍💻 All of my projects are available here:
