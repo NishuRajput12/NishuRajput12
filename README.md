@@ -10,7 +10,7 @@ style="border-radius:20px;">
 <img src="https://komarev.com/ghpvc/?username=nishurajput12&label=Profile%20Views&color=0e75b6&style=flat" alt="nishurajput12"/>
 </p>
 
-## 👨‍💻 About Me
+<h2>👨‍💻 About Me</h2>
 
 * 🎓 BCA Graduate (2026) passionate about building modern web applications
 * 💻 Full Stack Developer skilled in **JavaScript, React.js, Node.js & MongoDB**
