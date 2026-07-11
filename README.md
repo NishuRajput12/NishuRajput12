@@ -1,5 +1,4 @@
  <h1 align="center">Hi 👋, I'm Nishu Rajput</h1>
- ---
 <h3 align="center">🚀 Full Stack Web Developer | BCA Graduate 2026</h3>
 
   <img align="right" alt="Coding" width="400"
@@ -10,6 +9,7 @@ style="border-radius: 20px;">
      
 ### 👨‍🎓 About Me
 -🎓BCA Graduate (2026)
+
 -💻 Passionate about Web Development and building creative projects
 -🌱 Currently learning and improving my skills in React.js, Node.js & Backend Development
 -🧠 Currently improving my skills in Backend Development, APIs, System Design & DSA
@@ -66,30 +66,7 @@ style="border-radius: 20px;">
 </p>
 
 ---
-
-# 📊 GitHub Stats
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nishurajput12&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-</p>
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=nishurajput12&show_icons=true&locale=en&theme=tokyonight" />
-</p>
-
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nishurajput12&theme=tokyonight" />
-</p>
-
----
-
-
-
-</p>
-
    
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishurajput12&show_icons=true&locale=en&layout=compact" alt="nishurajput12" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishurajput12&show_icons=true&locale=en" alt="nishurajput12" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishurajput12&" alt="nishurajput12" /></p>
