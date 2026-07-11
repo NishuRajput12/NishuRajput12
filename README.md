@@ -5,8 +5,9 @@
 src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif"
 style="border-radius:20px;">
 
-
-
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=nishurajput12&label=Profile%20Views&color=0e75b6&style=flat" alt="nishurajput12"/>
+</p>
 
 ## 👨‍💻 About Me
 * 🎓 BCA Graduate (2026) passionate about building modern web applications
