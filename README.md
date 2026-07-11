@@ -22,10 +22,6 @@ style="border-radius:20px;">
 
 🔗 https://github.com/NishuRajput12
 
-👨‍💻 All of my projects are available here:
-
-🔗 https://github.com/NishuRajput12
-
 ## 🌐 Connect With Me
 
 <p align="left">
