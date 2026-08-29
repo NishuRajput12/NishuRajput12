@@ -7,7 +7,7 @@ src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing
 style="border-radius:20px;">
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=nishurajput12&label=Profile%20Views&color=0e75b6&style=flat" alt="nishurajput12"/>
+<img src="https://komarev.com/ghpvc/?username=nishurajput12&label=Profile%20Views&color=0e7a5b6&style=flat" alt="nishurajput12"/>
 </p>
 
 <p><b>👨‍💻 About Me</b></p>
