@@ -12,6 +12,7 @@ style="border-radius:20px;">
 
 <p><b>👨‍💻 About Me</b></p>
 
+* 🎓Currently Pursuing **MCA from GL Bajaj Institute of Technology & Management, Greater Noida (2026-2028)**
 * 🎓 BCA Graduate (2026) passionate about building modern web applications
 * 💻 Full Stack Developer skilled in **JavaScript, React.js, Node.js & MongoDB**
 * 🌱 Currently improving my skills in **Backend Development, APIs, System Design & DSA**
