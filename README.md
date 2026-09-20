@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nishu Rajput</h1>
 
-<h3 align="center">🚀 Full Stack Web Developer | BCA Graduate 2026</h3>
+<h3 align="center">🚀 Full Stack Web Developer | MCA Student (2026-28)</h3>
 
 <img align="right" alt="Coding" width="400"
 src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif"
@@ -12,7 +12,7 @@ style="border-radius:20px;">
 
 <p><b>👨‍💻 About Me</b></p>
 
-* 🎓Currently Pursuing **MCA from GL Bajaj Institute of Technology & Management, Greater Noida (2026-2028)**
+* 🎓 Currently Pursuing **MCA from GL Bajaj Institute of Technology & Management, Greater Noida (2026-2028)**
 * 🎓 BCA Graduate (2026) passionate about building modern web applications
 * 💻 Full Stack Developer skilled in **JavaScript, React.js, Node.js & MongoDB**
 * 🌱 Currently improving my skills in **Backend Development, APIs, System Design & DSA**
