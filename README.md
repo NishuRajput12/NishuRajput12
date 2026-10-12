@@ -31,7 +31,7 @@ style="border-radius:20px;">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
 </a>
 
-<a href="https://leetcode.com/nishu_coder17">
+<a href="https://leetcode.com/u/Nishu_Rajput2006/">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
 </a>
 
