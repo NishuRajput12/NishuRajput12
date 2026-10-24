@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nishu Rajput</h1>
 
-<h3 align="center">🚀 Full Stack Web Developer | MCA Student (2026-28)</h3>
+<h3 align="center">🚀 Full Stack Web Developer | MCA Student (2026
 
 <img align="right" alt="Coding" width="400"
 src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif"
